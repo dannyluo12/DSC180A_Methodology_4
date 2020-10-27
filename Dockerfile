@@ -30,3 +30,5 @@ USER $NB_UID
 
 # Override command to disable running jupyter notebook at launch
 # CMD ["/bin/bash"]
+
+# now in linux format
